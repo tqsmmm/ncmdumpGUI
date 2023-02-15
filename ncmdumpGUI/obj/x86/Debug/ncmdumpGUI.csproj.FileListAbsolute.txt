@@ -1,0 +1,11 @@
+E:\Code\ncmdumpGUI\ncmdumpGUI\bin\Debug\ncmdumpGUI.exe.config
+E:\Code\ncmdumpGUI\ncmdumpGUI\bin\Debug\ncmdumpGUI.exe
+E:\Code\ncmdumpGUI\ncmdumpGUI\bin\Debug\ncmdumpGUI.pdb
+E:\Code\ncmdumpGUI\ncmdumpGUI\obj\x86\Debug\ncmdumpGUI.csproj.AssemblyReference.cache
+E:\Code\ncmdumpGUI\ncmdumpGUI\obj\x86\Debug\ncmdumpGUI.csproj.SuggestedBindingRedirects.cache
+E:\Code\ncmdumpGUI\ncmdumpGUI\obj\x86\Debug\ncmdumpGUI.Main.resources
+E:\Code\ncmdumpGUI\ncmdumpGUI\obj\x86\Debug\ncmdumpGUI.Properties.Resources.resources
+E:\Code\ncmdumpGUI\ncmdumpGUI\obj\x86\Debug\ncmdumpGUI.csproj.GenerateResource.cache
+E:\Code\ncmdumpGUI\ncmdumpGUI\obj\x86\Debug\ncmdumpGUI.csproj.CoreCompileInputs.cache
+E:\Code\ncmdumpGUI\ncmdumpGUI\obj\x86\Debug\ncmdumpGUI.exe
+E:\Code\ncmdumpGUI\ncmdumpGUI\obj\x86\Debug\ncmdumpGUI.pdb
